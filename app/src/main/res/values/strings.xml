@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Actividad 2</string>
+    <string name="inicio">Inicio sesion</string>
+    <string name="usuario"> Ingrese usuario</string>
+    <string name="pass"> Ingrese contraseña</string>
+    <string name="Ingreso"> Ingreso</string>
+    <string name="Registro"> Registro</string>
+    <string name="Nombre"> Ingrese Nombre</string>
+    <string name="Apellido"> Ingrese Apellido</string>
+    <string name="Documento"> Ingrese Documento</string>
+    <string name="Telefono"> Ingrese Telefono</string>
+    <string name="LbNombre"> Nombre</string>
+    <string name="LbApellido"> Apellido</string>
+    <string name="LbDocumento"> Documento</string>
+    <string name="LbTelefono"> Telefono</string>
+    <string name="Guardar"> Guardar</string>
+    <string name="Consultar"> Consultar</string>
+    <string name="Eliminar"> Eliminar</string>
+    <string name="Actualizar"> Actualizar</string>
+    <string name="Usuarior"> Usuario</string>
+    <string name="LbUsuario"> Usuario</string>
+    <string name="LbPass"> Clave</string>
+    <string name="Inicioap"> Inicio Aplicación correcta</string>
+
+</resources>
